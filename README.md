@@ -418,6 +418,6 @@ For issues, questions, or contributions, please refer to the FastAPI and MongoDB
 - MongoDB: https://docs.mongodb.com
 - Motor (Async MongoDB): https://motor.readthedocs.io
 
-## License
+## Alert
 
-MIT License
+Use python 3.11.6 for stability
